@@ -1,0 +1,9 @@
+{
+  "name": "B4bharat.github.io",
+  "version": "1.0.0",
+  "description": "Personal Portfolio Website",
+  "main": "index.js",
+  "repository": "https://github.com/B4bharat/B4bharat.github.io.git",
+  "author": "Bharat Poptwani <b4bharat.available@gmail.com>",
+  "license": "MIT"
+}
