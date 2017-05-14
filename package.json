@@ -5,5 +5,10 @@
   "main": "index.js",
   "repository": "https://github.com/B4bharat/B4bharat.github.io.git",
   "author": "Bharat Poptwani <b4bharat.available@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "path": "^0.12.7",
+    "webpack": "^2.5.1",
+    "webpack-dev-server": "^2.4.5"
+  }
 }
