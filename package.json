@@ -6,7 +6,11 @@
   "repository": "https://github.com/B4bharat/B4bharat.github.io.git",
   "author": "Bharat Poptwani <b4bharat.available@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
   "dependencies": {
+    "html-webpack-plugin": "^2.28.0",
     "path": "^0.12.7",
     "webpack": "^2.5.1",
     "webpack-dev-server": "^2.4.5"
